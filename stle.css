@@ -1,0 +1,62 @@
+
+.header {
+  padding: 15px;
+  width: 98%;
+  background: #3d3d40;
+  text-align:center;
+  color: #f0f1f2;
+  font-size: 30px;
+  border-radius:3px;
+}
+
+Widget{
+  color: #fff5f5;
+}
+
+h1 {
+    text-align:center;
+  
+   }
+p {
+    text-align:center;
+  }
+
+A{
+  font-size: 1px;
+}
+
+
+button {
+  background-color: #0E2E47; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50px;
+  font-size: 16px;
+}
+button:hover {
+  background-color: #092236; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  border-radius: 50px;
+
+}
+
+
+.ButtonCon {
+  height: 200px;
+  position: relative;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 15%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
